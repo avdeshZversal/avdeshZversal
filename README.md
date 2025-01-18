@@ -1,5 +1,5 @@
 
-### Avdesh Singh <img align="center" src="[https://media.giphy.com/media/aTsSk8kKeD1qxSsy7S/giphy.gif](https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif)" width="100">
+### Avdesh Singh <img align="center" src="https://media.giphy.com/media/xUPGcpMkPDfVUbZg52/giphy.gif" width="100">
 
 
 - 🔭 I’m currently working as **Software Developer at Zversal**
